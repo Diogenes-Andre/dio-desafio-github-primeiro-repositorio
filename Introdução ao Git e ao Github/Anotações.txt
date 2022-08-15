@@ -1,0 +1,2 @@
+Link para download do Git:https://gitforwindows.org/
+O Gitbash é um terminal extendido para otimizar o uso do Git.
